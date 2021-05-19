@@ -4,7 +4,7 @@ Primeiro projeto do curso Responsive Web Design da freeCodeCamp.org (First Respo
 
 Requerimentos do projeto: (Project requirements:)
 
-#1: A página deverá conter um elemento com a id="main", que contém todos os outros elementos.
+#1: A página deverá conter uma tag com a id="main", que contém todos os outros elementos.
 (The tribute page should have an element with a corresponding id="main", which contains all other elements.)
 
 #2: Uma tag com a id="title", que contem uma string (ex: texto) que descreve o assunto da página (ex: "Dr. Normam Borlaug).
